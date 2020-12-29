@@ -1,0 +1,5 @@
+AplikacjaGraficzna.java
+ AplikacjaGraficzna
+Kontrolki.java
+ Kontrolki
+ Kontrolki$1
